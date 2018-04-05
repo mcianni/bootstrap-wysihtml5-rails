@@ -258,8 +258,8 @@ var bsWysihtml5 = function($, wysihtml5) {
             'href': 'url' // important to avoid XSS
           },
           'set_attributes': {
-            'target': '_blank',
-            'rel': 'nofollow'
+            //'target': '_blank',
+            //'rel': 'nofollow'
           }
         },
         'span': 1,
